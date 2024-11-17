@@ -12,7 +12,7 @@ from sklearn import metrics
 
 import warnings
 warnings.filterwarnings('ignore')
-df = pd.read_csv('content/Tesla.csv')
+df = pd.read_csv('Cleaned_Tesla.csv')
 # df.head()
 # List the columns in the DataFrame
 
